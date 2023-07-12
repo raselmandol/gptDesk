@@ -1,0 +1,47 @@
+D:\Visual Studio Works\GPT Teacher\bin\Debug\GPT Teacher.exe.config
+D:\Visual Studio Works\GPT Teacher\bin\Debug\GPT Teacher.exe
+D:\Visual Studio Works\GPT Teacher\bin\Debug\GPT Teacher.pdb
+D:\Visual Studio Works\GPT Teacher\bin\Debug\SVG.dll
+D:\Visual Studio Works\GPT Teacher\obj\Debug\GPT Teacher.csproj.AssemblyReference.cache
+D:\Visual Studio Works\GPT Teacher\obj\Debug\GPT Teacher.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Works\GPT Teacher\obj\Debug\GPT_Teacher.mainForm.resources
+D:\Visual Studio Works\GPT Teacher\obj\Debug\GPT_Teacher.Properties.Resources.resources
+D:\Visual Studio Works\GPT Teacher\obj\Debug\GPT Teacher.csproj.GenerateResource.cache
+D:\Visual Studio Works\GPT Teacher\obj\Debug\GPT Teacher.csproj.CoreCompileInputs.cache
+D:\Visual Studio Works\GPT Teacher\obj\Debug\GPT Teacher.csproj.CopyComplete
+D:\Visual Studio Works\GPT Teacher\obj\Debug\GPT Teacher.exe
+D:\Visual Studio Works\GPT Teacher\obj\Debug\GPT Teacher.pdb
+D:\Visual Studio Works\GPT Teacher\bin\Debug\FontAwesome.Sharp.dll
+D:\Visual Studio Works\GPT Teacher\bin\Debug\HidSharp.dll
+D:\Visual Studio Works\GPT Teacher\bin\Debug\LibreHardwareMonitorLib.dll
+D:\Visual Studio Works\GPT Teacher\bin\Debug\OpenHardwareMonitorLib.dll
+D:\Visual Studio Works\GPT Teacher\bin\Debug\System.CodeDom.dll
+D:\Visual Studio Works\GPT Teacher\bin\Debug\HidSharp.pdb
+D:\Visual Studio Works\GPT Teacher\bin\Debug\HidSharp.xml
+D:\Visual Studio Works\GPT Teacher\bin\Debug\LibreHardwareMonitorLib.xml
+D:\Visual Studio Works\GPT Teacher\bin\Debug\System.CodeDom.xml
+D:\Visual Studio Works\GPT Teacher\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\Visual Studio Works\GPT Teacher\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\Visual Studio\GPT Teacher\bin\Debug\GPT Teacher.exe.config
+D:\Visual Studio\GPT Teacher\bin\Debug\GPT Teacher.exe
+D:\Visual Studio\GPT Teacher\bin\Debug\GPT Teacher.pdb
+D:\Visual Studio\GPT Teacher\bin\Debug\FontAwesome.Sharp.dll
+D:\Visual Studio\GPT Teacher\bin\Debug\HidSharp.dll
+D:\Visual Studio\GPT Teacher\bin\Debug\LibreHardwareMonitorLib.dll
+D:\Visual Studio\GPT Teacher\bin\Debug\OpenHardwareMonitorLib.dll
+D:\Visual Studio\GPT Teacher\bin\Debug\SVG.dll
+D:\Visual Studio\GPT Teacher\bin\Debug\System.CodeDom.dll
+D:\Visual Studio\GPT Teacher\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\Visual Studio\GPT Teacher\bin\Debug\HidSharp.pdb
+D:\Visual Studio\GPT Teacher\bin\Debug\HidSharp.xml
+D:\Visual Studio\GPT Teacher\bin\Debug\LibreHardwareMonitorLib.xml
+D:\Visual Studio\GPT Teacher\bin\Debug\System.CodeDom.xml
+D:\Visual Studio\GPT Teacher\obj\Debug\GPT Teacher.csproj.AssemblyReference.cache
+D:\Visual Studio\GPT Teacher\obj\Debug\GPT Teacher.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\GPT Teacher\obj\Debug\GPT_Teacher.mainForm.resources
+D:\Visual Studio\GPT Teacher\obj\Debug\GPT_Teacher.Properties.Resources.resources
+D:\Visual Studio\GPT Teacher\obj\Debug\GPT Teacher.csproj.GenerateResource.cache
+D:\Visual Studio\GPT Teacher\obj\Debug\GPT Teacher.csproj.CoreCompileInputs.cache
+D:\Visual Studio\GPT Teacher\obj\Debug\GPT Teacher.csproj.CopyComplete
+D:\Visual Studio\GPT Teacher\obj\Debug\GPT Teacher.exe
+D:\Visual Studio\GPT Teacher\obj\Debug\GPT Teacher.pdb
